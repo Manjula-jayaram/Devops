@@ -2,3 +2,4 @@ Name - Manjula
 Location - Bangalore
 DOB - 05-11-1999
 Qualification -BCA
+College - JNC

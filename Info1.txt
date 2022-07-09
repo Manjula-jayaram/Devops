@@ -5,3 +5,4 @@ Qualification -BCA
 College - JNC
 martial status - married
 Employement - Techstar
+Job roll - IT Recruiter

@@ -6,11 +6,6 @@ College - JNC
 martial status - married
 Employement - Techstar
 Job roll - IT Recruiter
-<<<<<<< HEAD
-=======
 Job loc - BTM, Bangalore
-<<<<<<< HEAD
->>>>>>> 348d31817011d9792534c2cd80b066c1e6d84503
-=======
-"HAHAHAHAHAHA"
->>>>>>> bb6c670b010dedba74298e189e449ffdd6fc26ce
+Job type - permanaent 
+salary - 25K
